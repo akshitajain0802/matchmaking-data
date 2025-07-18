@@ -1,24 +1,3 @@
-{
-  "type": "module",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "dependencies": {
-    "express": "^4.21.2"
-  },
-  "name": "matchmaking-data",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/akshitajain0802/matchmaking-data.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/akshitajain0802/matchmaking-data/issues"
-  },
-  "homepage": "https://github.com/akshitajain0802/matchmaking-data#readme",
-  "description": ""
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:36d3f9d3b18923cf597017b229c7fc078de200b7e3e1d5dee3a3be8ee7635ab0
+size 575
